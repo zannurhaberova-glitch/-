@@ -1,0 +1,102 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body>	
+	Вот тест на тему "Дик Сэнд" с HTML-разметкой:
+
+```html
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тест - Дик Сэнд</title>
+
+
+    <h1>Дик Сэнд Тест</h1>
+    
+        <ol>
+            <li>
+                <p>Дик Сэндтің ата-анасы кім?</p>
+                <label>
+                    <input type="radio" name="question1" value="a"> Белгісіз
+                </label><br>
+                <label>
+                    <input type="radio" name="question1" value="b"> Атақты теңізшілер
+                </label><br>
+                <label>
+                    <input type="radio" name="question1" value="c"> Жергілікті тұрғындар
+                </label><br>
+                <label>
+                    <input type="radio" name="question1" value="d"> Олардың есімі белгілі
+                </label><br>
+                <p><strong>Дұрыс жауап: a</strong></p>
+            </li>
+            <li>
+                <p>Дик Сэндтің табылған жері қайда?</p>
+                <label>
+                    <input type="radio" name="question2" value="a"> Нью-Йорк
+                </label><br>
+                <label>
+                    <input type="radio" name="question2" value="b"> Сан-Франциско
+                </label><br>
+                <label>
+                    <input type="radio" name="question2" value="c"> Лос-Анджелес
+                </label><br>
+                <label>
+                    <input type="radio" name="question2" value="d"> Чикаго
+                </label><br>
+                <p><strong>Дұрыс жауап: a</strong></p>
+            </li>
+            <li>
+                <p>Дик Сэндтің жасы қаншада юнга болып орналасты?</p>
+                <label>
+                    <input type="radio" name="question3" value="a"> 10
+                </label><br>
+                <label>
+                    <input type="radio" name="question3" value="b"> 8
+                </label><br>
+                <label>
+                    <input type="radio" name="question3" value="c"> 12
+                </label><br>
+                <label>
+                    <input type="radio" name="question3" value="d"> 15
+                </label><br>
+                <p><strong>Дұрыс жауап: b</strong></p>
+            </li>
+            <li>
+                <p>Дик Сэндтің білім алуына кім көмектесті?</p>
+                <label>
+                    <input type="radio" name="question4" value="a"> Капитан Гуль
+                </label><br>
+                <label>
+                    <input type="radio" name="question4" value="b"> Джемс Уэлдон
+                </label><br>
+                <label>
+                    <input type="radio" name="question4" value="c"> Оқытушылары
+                </label><br>
+                <label>
+                    <input type="radio" name="question4" value="d"> Достары
+                </label><br>
+                <p><strong>Дұрыс жауап: b</strong></p>
+            </li>
+            <li>
+                <p>Дик Сэндтің қандай қасиеттері болды?</p>
+                <label>
+                    <input type="radio" name="question5" value="a"> Шапшаң, икемді, қайратты
+                </label><br>
+                <label>
+                    <input type="radio" name="question5" value="b"> Салақ, баяу, жалқау
+                </label><br>
+                <label>
+                    <input type="radio" name="question5" value="c"> Абайсыз, немқұрайлы, мейірімді
+                </label><br>
+                <label>
+                    <input type="radio" name="question5" value="d"> Тек білімді
+                </label><br>
+                <p><strong>Дұрыс жауап: a</strong></p>
+            </li>
+        </ol>
+    
+
+
+```
+
+Этот HTML-код создает тест на тему "Дик Сэнд" с пятью вопросами и одним правильным ответом для каждого.</body></html>
